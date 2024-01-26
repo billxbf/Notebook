@@ -35,10 +35,13 @@ reasoning be executed.
 
 
 ## AlphaGo
-**Resource: **
+[architect](https://medium.com/applied-data-science/alphago-zero-explained-in-one-diagram-365f5abf67e0) |
+[Jim Fan's post](https://twitter.com/DrJimFan/status/1728100123862004105) |
 
 AlphaGo is a perfect demonstration of Neural Symbolic approach, involving 3 core components:
 
 - (Neural) Policy NN
 - (Neural) Reward NN
 - (Symbolic) Monte Carlo Tree Search
+
+
