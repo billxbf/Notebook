@@ -2,7 +2,7 @@
 Comining Neural Learning and Symbolic Algorithms is the deterministic path to build robust machine intelligence.
 
 ## Current state of Neuro-Symbolic 
-*resource: https://arxiv.org/pdf/2105.05330.pdf | https://en.wikipedia.org/wiki/Neuro-symbolic_AI*
+*resource: https://arxiv.org/pdf/2105.05330.pdf | https://en.wikipedia.org/wiki/Neuro-symbolic_AI* | https://arxiv.org/pdf/2305.00813.pdf
 
 Neural learning is used for "system 1" reasoning through pattern recognition; Symbolic methods are better at "system 2" reasoning, ie. more deterministic, complex algorithms.
 
@@ -45,3 +45,5 @@ AlphaGo is a perfect demonstration of Neural Symbolic approach, involving 3 core
 - (Symbolic) Monte Carlo Tree Search
 
 
+## SymbolicAI
+[paper](https://arxiv.org/pdf/2402.00854.pdf) | [github](https://github.com/ExtensityAI/symbolicai)
